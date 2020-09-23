@@ -1,9 +1,6 @@
 //SCRIPTRED
-/*node {
-	echo "Build"
-	echo "Test"
-	echo "Test"
-}*?
+
+//DECLARATIVE
 pipeline {
 	agent any
 	stages {
