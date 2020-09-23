@@ -1,11 +1,6 @@
+//SCRIPTRED
 node {
-	stage('Build') {
-		echo "Build"
-	}
-	stage('Test') {
-		echo "Test"
-	}
-	stage('IntegrationTest') {
-		echo "Test"
-	}
+	echo "Build"
+	echo "Test"
+	echo "Test"
 }
